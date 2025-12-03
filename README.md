@@ -66,12 +66,7 @@ python -m http.server 8000
 npx http-server .
 ```
 
-## 📸 关于部署
 
-想发给朋友玩？直接丢到 **GitHub Pages** 就行。
-不需要构建（Build），代码推上去，在仓库 Settings -\> Pages 里选一下 `main` 分支，几分钟就上线了。
-
------
 
 **Merry Christmas\! 🎅**
 如果你觉得这项目有点意思，欢迎 Star，或者 Fork 改成你喜欢的颜色！
